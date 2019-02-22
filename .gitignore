@@ -2,5 +2,6 @@
 phpunit.xml
 composer.lock
 build
-vendor
+/vendor/*
 *.phar
+/nbproject/*
