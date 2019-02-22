@@ -1,8 +1,8 @@
 {
-    "name": "ramsey/array_column",
-    "description": "Provides functionality for array_column() to projects using PHP earlier than version 5.5.",
+    "name": "it-for-free/array_column",
+    "description": "Replacement for ramsey's array_column package: array_column() for projects using PHP earlier than version 5.5.",
     "type": "library",
-    "keywords": ["array", "column", "array_column"],
+    "keywords": ["array", "column", "array_column", "replacement for ramsey array_column"],
     "homepage": "https://github.com/ramsey/array_column",
     "license": "MIT",
     "authors": [
@@ -12,10 +12,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/ramsey/array_column/issues",
-        "source": "https://github.com/ramsey/array_column"
+        "issues": "https://github.com/it-for-free/array_column/issues",
+        "source": "https://github.com/it-for-free/array_column"
     },
-    "abandoned": true,
     "require-dev": {
         "phpunit/phpunit": "~4.5",
         "squizlabs/php_codesniffer": "~2.2",

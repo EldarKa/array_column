@@ -1,5 +1,7 @@
 # array_column() for PHP
 
+replacement for `ramsey/array_column`
+
 [![Build Status](https://travis-ci.org/ramsey/array_column.svg?branch=master)](https://travis-ci.org/ramsey/array_column)
 [![Coverage Status](https://coveralls.io/repos/ramsey/array_column/badge.svg?branch=master)](https://coveralls.io/r/ramsey/array_column)
 [![Latest Stable Version](https://poser.pugx.org/ramsey/array_column/v/stable.svg)](https://packagist.org/packages/ramsey/array_column)
