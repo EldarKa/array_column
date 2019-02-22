@@ -1,6 +1,6 @@
 # array_column() for PHP
 
-This package:
+This package (based on `ramsey/array_column` fork):
 
 * en: `it-for-free/array_column` is replacement for abandoned `ramsey/array_column` package.
 * ru: `it-for-free/array_column` является замена для пакета  более неподдерживаемого `ramsey/array_column`.
